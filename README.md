@@ -1,7 +1,5 @@
 # vidstow.github.io
 
-Public marketing site for [VidStow](https://github.com/vidstow/vidstow).
-
-This repository is the published static build. Edit the source in
-[vidstow-website](https://github.com/vidstow/vidstow-website), then rebuild and
-copy `dist/client` here.
+The VidStow website moved to [vidstow.com](https://vidstow.com). Every page
+here sends visitors there, keeping the path. The site's source lives in
+[vidstow-website](https://github.com/vidstow/vidstow-website).
